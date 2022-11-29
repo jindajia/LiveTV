@@ -15,5 +15,5 @@ https://live.olelive.com:6443/live/CCTV5HD_ag/hls.m3u8
 https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 ,CCTV6
 https://live.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 ,Yellow Stone
-https://europe.olemovienews.com//ts2//20221128//vhCqpBvw//mp4//vhCqpBvw.mp4//master.m3u8
+#EXTINF:-1 ,CCTV7
+https://europe.olemovienews.com/ts2/20221128/vhCqpBvw/mp4/vhCqpBvw.mp4/master.m3u8
