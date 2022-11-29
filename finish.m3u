@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 tvg-id="cctv4"
 https://live.olelive.com:6443/live/CCTV1HD/hls.m3u8
 
-#EXTINF:-1 ,CCTV4k
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
 https://live.olelive.com:6443/live/CCTV5HD_ag/hls.m3u8
 
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
 https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
 https://live.olelive.com:6443/live/CCTV6HD/hls.m3u8
 
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 tvg-id="yellow stone"
 https://europe.olemovienews.com/ts2/20221128/vhCqpBvw/mp4/vhCqpBvw.mp4/master.m3u8
